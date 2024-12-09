@@ -59,9 +59,3 @@ Neural networks are trained to minimize the denoising objective.
 ### Stable Diffusion
 - Compressed latent space leads to faster training but slightly reduced image quality.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/diffusion-models.git
-   cd diffusion-models
